@@ -10,11 +10,11 @@
 - ⚡ Fun fact: ***Grades are getting worse in school***
 
 
-![Snow's GitHub stats](https://github-readme-stats.vercel.app/api?username=fryghtened&theme=dark&show_icons=true)
+![Snow's GitHub stats](https://github-readme-stats.vercel.app/api?username=snowyodz&theme=dark&show_icons=true)
 
 
 
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fryghtened&theme=dark&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snowyodz&theme=dark&show_icons=true)
